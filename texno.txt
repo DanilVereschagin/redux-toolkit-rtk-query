@@ -1,0 +1,6 @@
+npm
+react
+redux-toolkit
+axios
+RTK-Query
+JSON-Server
